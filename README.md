@@ -1,1 +1,1 @@
-a READMW file of shell basics
+a README file of shell basics
